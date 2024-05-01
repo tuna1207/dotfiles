@@ -1,0 +1,3 @@
+*.py[cd]
+.DS_Store
+.idea/
